@@ -1,0 +1,6 @@
+{
+  "name": "Centrix",
+  "description": "Centrix Intelligent Identity Governance & User Access Recertification Platform. Real-time access control, SoD risk detection, and audit compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
